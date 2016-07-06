@@ -1,0 +1,16 @@
+{
+  "name": "julius-uiux",
+  "authors": [
+    "Julius Alvarado <nbr1ninrsan2@gmail.com>"
+  ],
+  "description": "a front end app",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "www.julius3d.com"
+}

@@ -1,0 +1,5 @@
+4-14-2016
+
+This is the app DealerTrak had me build for them as a 
+UI challenge which was to make a keycount counter
+and a palindrome checker. 
